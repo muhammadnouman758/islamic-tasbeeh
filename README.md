@@ -2,7 +2,7 @@
 
 This project is proprietary software. All Rights Reserved.  
 No copying, modifying, or distributing without written permission.
-Contact: youremail@example.com
+Contact: m.nouman5710@gmail.com
 
 
 
