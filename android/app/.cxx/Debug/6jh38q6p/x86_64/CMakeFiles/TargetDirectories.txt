@@ -1,0 +1,2 @@
+D:/3 projects/nw/tasbih/android/app/.cxx/Debug/6jh38q6p/x86_64/CMakeFiles/edit_cache.dir
+D:/3 projects/nw/tasbih/android/app/.cxx/Debug/6jh38q6p/x86_64/CMakeFiles/rebuild_cache.dir
